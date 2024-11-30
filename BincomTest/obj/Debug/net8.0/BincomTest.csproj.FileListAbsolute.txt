@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Bincom\Test1\Test1\bin\Debug\net8.0\BincomTest.exe
+C:\Users\HP\Desktop\Bincom\Test1\Test1\bin\Debug\net8.0\BincomTest.deps.json
+C:\Users\HP\Desktop\Bincom\Test1\Test1\bin\Debug\net8.0\BincomTest.runtimeconfig.json
+C:\Users\HP\Desktop\Bincom\Test1\Test1\bin\Debug\net8.0\BincomTest.dll
+C:\Users\HP\Desktop\Bincom\Test1\Test1\bin\Debug\net8.0\BincomTest.pdb
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\BincomTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\BincomTest.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\BincomTest.AssemblyInfo.cs
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\BincomTest.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\BincomTest.dll
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\refint\BincomTest.dll
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\BincomTest.pdb
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\BincomTest.genruntimeconfig.cache
+C:\Users\HP\Desktop\Bincom\Test1\Test1\obj\Debug\net8.0\ref\BincomTest.dll
